@@ -7,12 +7,14 @@ Proyek ini membangun sistem **Case-Based Reasoning (CBR)** untuk menganalisis da
 ## Struktur Folder di Google Drive
 
 ```
+
 MyDrive/
 └── Penalaran Komputer (460, 464)/
     ├── Data/
     │   ├── HAM/                  ← PDF putusan (input manual, isi sendiri)
     │   ├── raw/                  ← Output Tahap 1: file case_001.txt dst.
-    │   ├── case_metadata.csv     ← Output Tahap 2: metadata + full_text
+    │   ├── processed/
+    │   │   └── cases.csv         ← Output Tahap 2: metadata + full_text
     │   ├── eval/
     │   │   ├── queries.json      ← Query uji (dibuat di Tahap 3)
     │   │   ├── top_tfidf_terms.png
