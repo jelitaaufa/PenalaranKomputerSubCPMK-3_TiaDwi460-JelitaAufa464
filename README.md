@@ -5,7 +5,7 @@ Proyek ini membangun sistem **Case-Based Reasoning (CBR)** untuk menganalisis da
 ---
 
 ## Struktur Folder di Google Drive
-
+```
 MyDrive/
 └── Penalaran Komputer (460, 464)/
     ├── Data/
@@ -30,7 +30,7 @@ MyDrive/
         ├── retrieval.log
         ├── predict.log
         └── evaluation.log
----
+```
 
 ## Prasyarat
 
