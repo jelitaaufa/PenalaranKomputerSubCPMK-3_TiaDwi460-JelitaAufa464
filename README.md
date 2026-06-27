@@ -7,7 +7,6 @@ Proyek ini membangun sistem **Case-Based Reasoning (CBR)** untuk menganalisis da
 ## Struktur Folder di Google Drive
 
 ```
-
 MyDrive/
 └── Penalaran Komputer (460, 464)/
     ├── Data/
@@ -67,12 +66,12 @@ pdfminer.six
 
 ### Tahap 2 — Representasi Kasus (`02_representation.ipynb`)
 
-**Tujuan:** Ekstrak metadata dari teks dan simpan ke `case_metadata.csv`
+**Tujuan:** Ekstrak metadata dari teks dan simpan ke `cases.csv`
 
 1. Buka `02_representation.ipynb` di Google Colab
 2. Pastikan Tahap 1 sudah selesai (folder `raw/` terisi)
 3. Jalankan semua cell dari atas ke bawah
-4. **Output:** `Data/case_metadata.csv` dengan kolom:
+4. **Output:** `Data/processed/cases.csv` dengan kolom:
    - `case_id`, `nomor_perkara`, `tahun_putusan`, `bulan_putusan`, `tanggal_putusan`
    - `jenis_perkara`, `tingkat_pemeriksaan`, `lembaga_peradilan`
    - `pasal`, `hakim_ketua`, `ringkasan_fakta`, `jumlah_kata_putusan`, `full_text`
@@ -89,7 +88,7 @@ pandas
 **Tujuan:** Bangun model TF-IDF + SVM untuk retrieval kasus serupa
 
 1. Buka `03_retrieval.ipynb` di Google Colab
-2. Pastikan `case_metadata.csv` sudah ada
+2. Pastikan `Data/processed/cases.csv` sudah ada
 3. Jalankan semua cell dari atas ke bawah
 4. **Output:**
    - `Data/eval/queries.json` — query uji dengan ground truth
@@ -163,6 +162,6 @@ lime, nltk, scikit-learn, pandas, numpy, matplotlib, seaborn
 ## Catatan Penting
 
 - Semua notebook menggunakan **Google Colab + Google Drive** — tidak perlu install apapun di lokal
-- Folder `raw/`, `eval/`, `results/`, dan `logs/` dibuat **otomatis** saat notebook dijalankan
+- Folder `raw/`, `processed/`, `eval/`, `results/`, dan `logs/` dibuat **otomatis** saat notebook dijalankan
 - Satu-satunya folder yang perlu dibuat manual adalah `HAM/` beserta isi PDF-nya
 - Jalankan notebook **sesuai urutan nomor** (01 → 02 → 03 → 04 → 05)
