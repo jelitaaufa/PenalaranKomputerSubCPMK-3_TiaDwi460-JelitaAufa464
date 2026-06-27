@@ -1,0 +1,3 @@
+Model,Accuracy@5,MRR,Pred_Accuracy,Pred_Precision,Pred_Recall,Pred_F1
+SVM,1.0,1.0,0.5,0.25,0.5,0.3333333333333333
+Naive Bayes,1.0,1.0,0.5,0.25,0.5,0.3333333333333333

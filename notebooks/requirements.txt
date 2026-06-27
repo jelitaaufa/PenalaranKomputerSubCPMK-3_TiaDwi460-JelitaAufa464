@@ -1,0 +1,25 @@
+# ============================================================
+# requirements.txt — CBR Putusan HAM
+# Semua library di bawah diinstall otomatis via %pip install
+# di masing-masing notebook saat dijalankan di Google Colab.
+#
+# Jika ingin menjalankan secara LOKAL (bukan Colab), jalankan:
+#   pip install -r requirements.txt
+# ============================================================
+
+# Tahap 1 — PDF Extraction
+pdfminer.six
+
+# Tahap 2, 3, 4, 5 — Data Processing & ML
+pandas
+numpy
+scikit-learn
+scipy
+
+# Tahap 3, 5 — Visualisasi
+matplotlib
+seaborn
+
+# Tahap 5 — Explainability & NLP
+lime
+nltk

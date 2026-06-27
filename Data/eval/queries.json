@@ -1,0 +1,62 @@
+[
+  {
+    "query_id": "query_001",
+    "query_text": "putusannomor 2803 pdt g 2025 pa tgrs demi keadilan berdasarkan ketuhanan yang maha esapengadilan agama tigaraksa yang memeriksa dan mengadili perkaratertentu pada tingkat pertama dalam persidangan majelis telah menjatuhkanputusan perkara cerai gugat antara penggugat umur 38 tahun agama islam pendidikan s1 pekerjaanxxxxxxxx xxxxxx tempat tinggal di sebagai penggugat melawan tergugat umur 46 tahun agama islam pendidikan slta pekerjaan xxxxxxxxxxxx tempat tinggal di sebagai tergugat pengadilan agam",
+    "ground_truth_case": "case_014",
+    "ground_truth_label": "pasal_116"
+  },
+  {
+    "query_id": "query_002",
+    "query_text": "p u t u s a nnomor 394 pid sus 2013 pn rhl demi keadilan berdasarkan ketuhanan yang maha esa pengadilan negeri rokan hilir di ujung tanjung yang memeriksa dan mengadili perkara perkara pidana dengan acara pemeriksaan biasa pada peradilan tingkat pertama telah menjatuhkan putusan sebagai berikut dalam perkaranya terdakwa n a m a rudi hartono bin poniran tempat lahir desa antara sumut umur tanggal lahir 31 tahun 13 oktober 1982jenis kelamin laki lakikewarganegaraan indonesiatempat tinggal dusun pe",
+    "ground_truth_case": "case_040",
+    "ground_truth_label": "pasal_44"
+  },
+  {
+    "query_id": "query_003",
+    "query_text": "p u t u s a nno 37 pid b 2013 pn mdl demi keadilan berdasarkan ketuhanan yang maha esa pengadilan negeri mandailing natal yang memeriksa dan mengadili perkara perkara pidana secara biasa pada peradilan tingkat pertama telah menjatuhkan putusan sebagaimana tersebut di bawah ini di dalam perkara terdakwanama lengkap abu hasan as ari harahap tempat lahir manisak umur tanggal lahir 29 tahun 14 februari 1983 jenis kelamin laki laki kebangsaan indonesia tempat tinggal desa manisak kec ranto baek kab m",
+    "ground_truth_case": "case_031",
+    "ground_truth_label": "pasal_44"
+  },
+  {
+    "query_id": "query_004",
+    "query_text": "p u t u s a nnomor 9 pid sus 2016 pn bekdemi keadilan berdasarkan ketuhanan yang maha esapengadilan negeri bengkayang yang mengadili perkara pidana dengan acara pemeriksaan biasa dalam tingkat pertama menjatuhkan putusan sebagai onama lengkap syaipul bin abiet tempat lahir sambas umur tanggal lahir 42 tahun 7 maret 1973 jenis kelamin laki laki kebangsaan indonesia tempat tinggal dusun penyengat rt 007 rw 004 desa lembang kecamatan sambas kabupaten sambas agama islam pekerjaan swasta terdakwa dit",
+    "ground_truth_case": "case_046",
+    "ground_truth_label": "pasal_4"
+  },
+  {
+    "query_id": "query_005",
+    "query_text": "p u t u s a nnomor 688 pid sus 2013 pn rhl demi keadilan berdasarkan ketuhanan yang maha esa pengadilan negeri rokan hilir di ujung tanjung yang memeriksa dan mengadili perkara perkara pidana dengan acara pemeriksaan biasa pada peradilan tingkat pertama telah menjatuhkan putusan sebagai berikut dalam perkaranya terdakwa namatempat lahirumur tanggal lahirjenis kelaminkebangsaan kewarganegaraantempat tinggal agamapekerjaanpendidikan rojab siregar als rojab panipahan 40 tahun 07 september 1973 laki",
+    "ground_truth_case": "case_018",
+    "ground_truth_label": "pasal_6"
+  },
+  {
+    "query_id": "query_006",
+    "query_text": "1p u t u s a nnomor 44 pid sus 2016 pn soe demi keadilan berdasarkan ketuhanan yang maha esa pengadilan negeri soe yang mengadili perkara pidana dengan acara pemeriksaan biasa dalam tingkat pertama menjatuhkan putusan sebagai berikut dalam perkara terdakwa 1 nama lengkap marten kuman tempat lahir naifatu umur tanggal lahir 57 tahun 11 maret 1959 jenis kelamin laki laki kebangsaan indonesia tempat tinggal desa naifatu kec santian kab tts agama kristen protestan pekerjaan petani pendidikan sd tida",
+    "ground_truth_case": "case_049",
+    "ground_truth_label": "pasal_44"
+  },
+  {
+    "query_id": "query_007",
+    "query_text": "menimbang bahwa terdakwa didakwa oleh jaksa penuntut umum berdasarkan surat dakwaannya no reg perk pdm 89 pkl ci 08 2015 secara tunggal sebagai berikut bahwa terdakwa rajiman saut saragih pada hari senin tanggal 06 juli 2015 atau pada waktu tertentu yang masih termasuk dalam bulan juli 2015 sekira pukul 08 00 wib bertempat di dalam sebuah pondok tempat terdakwa bekerja jalan koridor rapp km 86 dusun iii bukit kesuma desa kesuma kecamatan pangkalan kuras kabupaten pelalawan atau ditempat lain yan",
+    "ground_truth_case": "case_027",
+    "ground_truth_label": "pasal_81"
+  },
+  {
+    "query_id": "query_008",
+    "query_text": "p u t u s a nnomor 119 pdt g 2025 pa rmbdemi keadilan berdasarkan ketuhanan yang maha esapengadilan agama rumbiamemeriksa dan mengadili perkara perdata agama pada tingkat pertama dalamsidang majelis hakim yang dilaksanakan secara elektronik telah menjatuhkanputusan dalam perkara cerai gugat antara penggugat nik tempat dan tanggal lahir talabente 27 februari2001 umur 24 tahun agama islam pekerjaanstaff notaris di bombana pendidikan slta tempat kediaman di kabupaten bombana sulawesi tenggara denga",
+    "ground_truth_case": "case_026",
+    "ground_truth_label": "pasal_49"
+  },
+  {
+    "query_id": "query_009",
+    "query_text": "p u t u s a nnomor 63 pid sus 2014 pn soe demi keadilan berdasarkan ketuhanan yang maha esapengadilan negeri soe yang mengadili perkara perkara pidana pada pengadilan tingkat pertama telah menjatuhkan putusan sebagai berikut dalam perkara terdakwa nama lengkap abner saymon yohanis kitu alias oris tempat lahir soe u m u r tanggal lahir 31 tahun 29 april 1982 jenis kelamin laki lakikebangsaan indonesia tempat tinggal rt 004 rw 02 kelurahan kesetnana kecamatan mollo selatan kab timor tengah selatan",
+    "ground_truth_case": "case_033",
+    "ground_truth_label": "pasal_44"
+  },
+  {
+    "query_id": "query_010",
+    "query_text": "dari 20 putusan nomor 50 pid sus 2014 pn soe p u t u s a n no 50 pid sus 2014 pn soe demi keadilan berdasarkan ketuhanan yang maha esa pengadilan negeri soe yang mengadili perkara pidana dengan acara pemeriksaan biasa pada peradilan tingkat pertama menjatuhkan putusan sebagai berikut dalam perkara terdakwa nama yunus ano alias yunus tempat lahir kusi umur tgl lahir 38 tahun 4 agustus 1975 jenis kelamin laki laki kebangsaan indonesia tempat tinggal rt 14 rw 06 dusun ii desa oni kecamatan kualin k",
+    "ground_truth_case": "case_020",
+    "ground_truth_label": "pasal_34"
+  }
+]

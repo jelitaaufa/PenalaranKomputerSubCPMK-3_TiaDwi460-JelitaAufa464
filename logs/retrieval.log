@@ -1,0 +1,16 @@
+2026-06-27 05:52:45,994 - INFO - TF-IDF matrix built: (50, 19291)
+2026-06-27 05:52:46,025 - INFO - Split done: 40 train, 10 test
+2026-06-27 05:52:47,016 - INFO - SVM training complete.
+2026-06-27 05:52:47,790 - INFO - Retrieved top-5 for query (len=500): ['case_014', 'case_026', 'case_032', 'case_025', 'case_030']
+2026-06-27 05:52:47,817 - INFO - Retrieved top-5 for query (len=500): ['case_014', 'case_026', 'case_032', 'case_025', 'case_030']
+2026-06-27 05:52:47,829 - INFO - Retrieved top-5 for query (len=500): ['case_045', 'case_040', 'case_034', 'case_038', 'case_018']
+2026-06-27 05:52:47,839 - INFO - Retrieved top-5 for query (len=500): ['case_045', 'case_031', 'case_035', 'case_001', 'case_021']
+2026-06-27 05:52:47,849 - INFO - Retrieved top-5 for query (len=500): ['case_045', 'case_046', 'case_039', 'case_043', 'case_049']
+2026-06-27 05:52:47,859 - INFO - Retrieved top-5 for query (len=500): ['case_045', 'case_018', 'case_034', 'case_038', 'case_040']
+2026-06-27 05:52:47,867 - INFO - Retrieved top-5 for query (len=500): ['case_045', 'case_049', 'case_039', 'case_024', 'case_011']
+2026-06-27 05:52:47,875 - INFO - Retrieved top-5 for query (len=500): ['case_027', 'case_007', 'case_009', 'case_041', 'case_008']
+2026-06-27 05:52:47,883 - INFO - Retrieved top-5 for query (len=500): ['case_026', 'case_014', 'case_032', 'case_025', 'case_030']
+2026-06-27 05:52:47,891 - INFO - Retrieved top-5 for query (len=500): ['case_033', 'case_045', 'case_019', 'case_037', 'case_028']
+2026-06-27 05:52:47,899 - INFO - Retrieved top-5 for query (len=500): ['case_020', 'case_045', 'case_015', 'case_019', 'case_013']
+2026-06-27 05:52:47,901 - INFO - Retrieval eval: {'total_queries': 10, 'hits': 10, 'accuracy_at_5': 1.0}
+2026-06-27 05:52:47,956 - INFO - SVM eval — Acc:0.5000 Prec:0.2500 Rec:0.5000 F1:0.3333
