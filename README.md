@@ -12,7 +12,7 @@ MyDrive/
     ├── Data/
     │   ├── HAM/                  ← PDF putusan (input manual, isi sendiri)
     │   ├── raw/                  ← Output Tahap 1: file case_001.txt dst.
-    │   ├── case_metadata.csv     ← Output Tahap 2: metadata + full_text
+    │   ├── cases.csv             ← Output Tahap 2: metadata + full_text
     │   ├── eval/
     │   │   ├── queries.json      ← Query uji (dibuat di Tahap 3)
     │   │   ├── top_tfidf_terms.png
